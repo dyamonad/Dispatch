@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dispatch</string>
+    <string name="hint_server_ip">Server IP (e.g. ws://192.168.1.10:8765)</string>
+    <string name="default_server_ip">ws://192.168.1.100:8765</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="status_recording">🔴 Recording…</string>
+    <string name="status_sending">Sending command…</string>
+    <string name="hints">Vol↑ = cycle window  |  Hold Vol↓ = record &amp; send</string>
+    <string name="permission_rationale">Microphone permission is required for voice commands.</string>
+    <string name="no_windows">No terminal windows detected on desktop.</string>
+</resources>
