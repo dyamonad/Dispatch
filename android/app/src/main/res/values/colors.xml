@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+
+    <!-- Accent / interactive elements -->
+    <color name="accent">#FF6200EE</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_hint">#FF888888</color>
+
+    <!-- Window representation on canvas -->
+    <color name="window_default">#FF2196F3</color>      <!-- blue – idle window -->
+    <color name="window_selected">#FF4CAF50</color>     <!-- green – focused/selected -->
+    <color name="window_recording">#FFF44336</color>    <!-- red – actively recording -->
+    <color name="window_border">#FFFFFFFF</color>
+
+    <!-- Status text colours -->
+    <color name="status_disconnected">#FFFF5722</color>
+    <color name="status_connected">#FF4CAF50</color>
+    <color name="status_recording">#FFF44336</color>
+</resources>
